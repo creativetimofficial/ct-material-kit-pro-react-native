@@ -48,13 +48,8 @@ Let us know your thoughts below. And good luck with development!
 
 ## Demo
 
-- [Start page](https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html)
-- [User profile page](https://demos.creative-tim.com/material-dashboard-pro/examples/pages/user.html)
-- [Tables page ](https://demos.creative-tim.com/material-dashboard-pro/examples/tables/extended.html)
-- [Maps Page](https://demos.creative-tim.com/material-dashboard-pro/examples/maps/google.html)
-- [Notifications page](https://demos.creative-tim.com/material-dashboard-pro/examples/components/notifications.html)
+- [Start page](https://demos.creative-tim.com/material-kit-pro-react-native)
 
-[View More](https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html).
 
 
 ## Quick start
