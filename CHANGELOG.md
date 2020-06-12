@@ -1,3 +1,25 @@
+## [1.6.0] 2020 - 06 - 11
+
+### Updated dependencies
+- updated `expo-asset@8.0.0` to `expo-asset@8.1.5`
+- updated `expo-font@8.0.0` to `expo-font@8.1.0`
+- updated `react-native-gesture-handler@1.5.0` to  `react-native-gesture-handler@1.6.0`
+- updated `react-native-screens@2.0.0-beta.8` to `react-native-screens@2.2.0`
+- updated `react-native SDK@36.0.0` to `react-native SDK@37.0.0`
+- updated `babel-preset-expo@8.0.0` to `babel-preset-expo@8.2.1`
+- updated `Expo @36.0.0` to `Expo @37.0.0`
+- updated `@react-navigation/native@5.0.5` to `@react-navigation/native@5.5.0`
+- updated `@react-navigation/stack@5.0.6` to `@react-navigation/stack@5.4.1`
+- updated `@react-navigation/compat@5.0.5` to `@react-navigation/compat@5.1.25`
+- updated `@react-navigation/drawer@5.0.5` to `@react-navigation/drawer@5.8.2`
+- updated `jest-expo@36.0.0` to `jest-expo@37.0.0`
+
+### Updated files
+- updated `Product.js` - fixed bad function call 
+- updated `utils.js` - fixed missing variables
+- updated `Screens.js` - fixed `Components` screen showing wrong Navbar
+- updated `Header.js` - fixed bug created by navigation package and `onFocus`
+
 ## [1.5.0] 2019 - 02 - 19
 ### Removed dependencies
 - removed `react-navigation@3.11.0`
