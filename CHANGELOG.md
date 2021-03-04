@@ -1,3 +1,53 @@
+## [1.8.0] 2021 - 03 - 04
+### Updated dependencies
+- updated `expo-asset@8.2.0` to `expo-asset@8.2.1`
+- updated `expo-font@8.3.0` to `expo-font@8.4.0`
+- updated `expo-linear-gradient@8.3.0` to `expo-linear-gradient@8.4.0`
+- updated `react-native-gesture-handler@1.7.0` to  `react-native-gesture-handler@1.8.0`
+- updated `react-native SDK@39.0.3` to `react-native SDK@40.0.1`
+- updated `Expo @39.0.0` to `Expo @40.0.0`
+- updated `jest-expo@39.0.0` to `jest-expo@40.0.0`
+
+- updated `react-native-screens@2.10.1` to `react-native-screens@2.15.2`
+- updated `react-native-safe-area-context@3.1.4` to `react-native-safe-area-context@3.1.9`
+- updated `@react-navigation/drawer@5.8.2` to `@react-navigation/drawer@5.12.4`
+- updated `@react-navigation/native@5.5.0` to `@react-navigation/native@5.9.3`
+- updated `@react-navigation/stack@5.4.1` to `@react-navigation/stack@5.14.3`
+- added `expo-app-loading@1.01`
+
+### Updated files
+- updated `App.js` to work with the new package included `expo-app-loading`
+- updated `Drawer.js` solved the missing icon issue
+- fixed `SignIn.js` and `SignUp.js` layout issue and `KeyboardAvoidingView` 
+- fixed `Animated.event` warning in `Product.js` and `Gallery.js`
+- fixed `Animated.interpolate()` error in `Product.js` and `Gallery.js`
+- fixed error caused by the ScrollView inside `Product.js` and `Gallery.js`
+
+
+## [1.7.0] 2020 - 10 - 30
+### Updated dependencies
+- updated `expo-asset@8.1.5` to `expo-asset@8.2.0`
+- updated `expo-font@8.1.0` to `expo-font@8.3.0`
+- updated `expo-linear-gradient@8.1.0` to `expo-linear-gradient@8.3.0`
+- updated `react-native-gesture-handler@1.6.0` to  `react-native-gesture-handler@1.7.0`
+- updated `react-native SDK@37.0.1` to `react-native SDK@39.0.3`
+- updated `babel-preset-expo@8.2.1` to `babel-preset-expo@8.3.0`
+- updated `Expo @37.0.0` to `Expo @39.0.0`
+- updated `jest-expo@37.0.0` to `jest-expo@39.0.0`
+- updated `react-native-reanimated@1.7.0` to `react-native-reanimated@1.13.0`
+- updated `react-native-screens@2.2.0` to `react-native-screens@2.10.1`
+- updated `react-native-safe-area-context@0.7.3` to `react-native-safe-area-context@3.1.4`
+- updated `@react-native-community/masked-view@0.1.6` to `@react-native-community/masked-view@0.1.10`
+- updated `react@16.9.0` to `react@16.13.1`
+- updated `galio-framework@0.6.3` to `galio-framework@0.7.1`
+- changed fork for `react-native-modal-dropdown`
+
+### Updated files
+- updated `Product.js` -> fixed chat icon and resize for bigger screens
+- updated `Cart.js` -> fixed checkout buttons and layout cards
+- updated `Onboarding.js`-> fixed gradient and button size
+- updated `Tabs.js` -> fixed warning related to Animation
+- updated `Components.js` -> Fixed button color error and Select layout
 ## [1.6.0] 2020 - 06 - 11
 
 ### Updated dependencies
