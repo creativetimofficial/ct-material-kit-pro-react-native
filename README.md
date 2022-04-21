@@ -1,7 +1,7 @@
 # [Material Kit Pro React Native](https://creativetimofficial.github.io/material-dashboard-pro/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Kit%20Pro%20React%20Native,%20a%20cool%20Material%20Kit%20React%20Native%20App%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2HObENt%20%23reactnative%20%23material%20%23design%20%23developers%20via%20%40CreativeTim)
 
 
- ![version](https://img.shields.io/badge/version-1.8.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-kit-pro-react-native.svg?style=flat)](https://github.com/creativetimofficial/ct-material-kit-pro-react-native/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-kit-pro-react-native.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro-react-native/issues?q=is%3Aissue+is%3Aclosed)
+ ![version](https://img.shields.io/badge/version-1.9.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-kit-pro-react-native.svg?style=flat)](https://github.com/creativetimofficial/ct-material-kit-pro-react-native/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-kit-pro-react-native.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-kit-pro-react-native/issues?q=is%3Aissue+is%3Aclosed)
 
 
 ![Product Gif](http://s3.amazonaws.com/creativetim_bucket/products/143/original/opt_mkprn_thumbnail.jpg)
