@@ -1,5 +1,8 @@
-## [1.10.0] 2023-07-03
+## [1.10.1] 2023-08-22
+### BugFixing
+- Duplicate navigation name issue fixed
 
+## [1.10.0] 2023-07-03
 ### Updated dependencies
 - Expo sdk updated from 45 to 48
 - react update from 17 to 18
